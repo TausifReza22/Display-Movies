@@ -1,0 +1,9 @@
+.nav-main{
+   
+    height: 10vh;
+    background-color: lightgray;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
